@@ -1,0 +1,7 @@
+{
+  "name": "nodejs-chatbot",
+  "version": "0.1.0",
+  "description": "A Node.js chatbot application",
+  "main": "index.js",
+  "type": "commonjs"
+}
